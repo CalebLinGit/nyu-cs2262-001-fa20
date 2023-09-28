@@ -1,4 +1,6 @@
-# nyu-cs2262-001-fa20
-CSCI-UA.0201-005 - Fall 2020
+Sample App
 
-Central repository for managing class activities and course information
+Sample Python Flask application to showcase the steps of building and running a web server with Docker.
+
+Docker: https://www.docker.com/
+Flask documentation: https://flask.palletsprojects.com/en/1.1.x/
