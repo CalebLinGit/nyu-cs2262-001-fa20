@@ -11,7 +11,7 @@ RUN groupadd -g 799 nyu && \
 # Set up a working folder and install the pre-reqs
 WORKDIR /app
 
-RUN pip install pytz flask
+RUN pip install flask requests
 
 USER nyu
 
